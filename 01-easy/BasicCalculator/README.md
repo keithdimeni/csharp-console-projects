@@ -1,4 +1,4 @@
-﻿# 📊 Calculadora de IMC
+﻿# 📊 Calculadora Básica
 
 Um programa console em C# que calcula dois números nas operações básicas.
 
