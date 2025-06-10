@@ -62,10 +62,10 @@ Este projeto ajuda a desenvolver habilidades em:
 
 ### Conceitos de Programação
 - **Entrada do usuário**: `Console.ReadLine()`
-- **Conversão de tipos**: `double.Parse()`, `Convert.ToDouble()`
+- **Conversão de tipos**: `double.TryParse()`, `Convert.ToDouble()`
 - **Operações matemáticas**: `Math.Pow()` para exponenciação
-- **Formatação de strings**: `ToString("F2")` para casas decimais
-- **Estruturas condicionais**: cadeias `if-else if-else`
+- **Formatação de strings**: `"F2"` para casas decimais
+- **Estruturas condicionais**: cadeias `if-else, switch expression`
 - **Loops**: `do-while` para repetição do programa
 - **Tratamento de exceções**: com `throw`
 
